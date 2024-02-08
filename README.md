@@ -50,3 +50,8 @@ npm i
    ```
    node scripts/get_transaction.js <txn_hash>
    ```
+   Run deploy contract in loop    
+   ```
+   ./run_command_loop.sh
+   ```
+
