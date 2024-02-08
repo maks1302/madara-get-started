@@ -56,6 +56,10 @@ npm i
    ```
    screen -S loop
    ```
+   Allow to run script
+   ```
+   chmod +x run_command_loop.sh
+   ```
    Run deploy contract in loop    
    ```
    ./run_command_loop.sh
