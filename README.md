@@ -19,8 +19,8 @@ sudo apt install npm -y
 
 ```
 git clone https://github.com/karnotxyz/madara-get-started
-npm i
 cd madara-get-started
+npm i
 ```
 
 ### Using the scripts
