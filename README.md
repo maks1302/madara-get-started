@@ -9,11 +9,10 @@ This repo contains some basic scripts so that you can get started with Madara. T
 ### Installing Node JS
 
 ```
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 source ~/.bashrc
 nvm install v20.5.1
-sudo apt install npm
+sudo apt install npm -y
 ```
 
 > You will need Node.js to use these scripts. These scripts were tested on Node version v20.5.1
@@ -21,6 +20,7 @@ sudo apt install npm
 ```
 git clone https://github.com/karnotxyz/madara-get-started
 npm i
+cd madara-get-started
 ```
 
 ### Using the scripts
